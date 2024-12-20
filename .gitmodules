@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "fmpapi"]
+	path = fmpapi
+	url = https://github.com/tidy-finance/r-fmpapi
 [submodule "tidyfinance"]
 	path = tidyfinance
 	url = https://github.com/tidy-finance/r-tidyfinance
